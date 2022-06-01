@@ -1,0 +1,3 @@
+Student{msv='1', name='1', age=1, sex='1', address='1', mediumScore=1.0}
+Student{msv='2', name='2', age=2, sex='2', address='2', mediumScore=2.0}
+Student{msv='3', name='3', age=3, sex='3', address='3', mediumScore=3.0}
